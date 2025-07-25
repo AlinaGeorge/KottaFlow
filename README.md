@@ -1,4 +1,5 @@
-# 🚀 Project Title
+# 🚀 KottaFlow 
+An initiative to manage the traffic congestion in Kottakkal,a town in Malappuram
 
 Welcome to this Django-Flutter project! 🌐🦋  
 This repository combines the power of Django (as the backend) and Flutter (as the frontend) to deliver modern, scalable web and mobile applications. Django provides robust APIs and server-side logic, while Flutter ensures a beautiful, reactive user interface across platforms.
