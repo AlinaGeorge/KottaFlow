@@ -38,7 +38,7 @@ def get_route(request):
 
 @api_view(['GET'])
 def junction_status(request):
-    junction_names = ["Junction A", "Junction B", "Junction C"]
+    junction_names = ["Kottakkal", "Tirur", "Valanchery"]
     data = []
 
     for name in junction_names:
